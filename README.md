@@ -1,1 +1,1 @@
-# Python
+This weather app project, developed using Python's Tkinter library, provides a graphical interface to check real-time weather information for selected cities in India. The app uses the OpenWeatherMap API to fetch and display weather details, such as climate type, description, temperature (converted from Kelvin to Celsius), and atmospheric pressure. Users select a city from a dropdown menu, and upon clicking "Enter," the app retrieves and displays the latest weather information on the screen.
